@@ -61,8 +61,10 @@ You can use a webcam in a real-time demo by running
 ./scripts/run-demo.sh
 ```
 
-
+## Reference
+ * [jwyang/faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch)
+ * [dechunwang/SSH-pytorch](https://github.com/dechunwang/SSH-pytorch)
 
 ## License
 facial-anonymizer complies with the following license:  
-[egovid_license](https://github.com/blacknwhite5/facial-anonymizer/blob/master/egovid_license.txt)
+ * [egovid_license](https://github.com/blacknwhite5/facial-anonymizer/blob/master/egovid_license.txt)
