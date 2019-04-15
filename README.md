@@ -72,5 +72,5 @@ You can use a webcam in a real-time demo by running
  * [dechunwang/SSH-pytorch](https://github.com/dechunwang/SSH-pytorch)
 
 ## License
-The code is a non-commercial academic use and it complies with the following license:  
+The code is for non-commercial academic use and it complies with the following license:  
  * [egovid_license](https://github.com/blacknwhite5/facial-anonymizer/blob/master/egovid_license.txt)
