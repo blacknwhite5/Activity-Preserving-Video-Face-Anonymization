@@ -1,8 +1,14 @@
-# Anonymize Faces for Privacy Preserving
-Please, see the following paper/project for details  
-[[Project]](https://jason718.github.io/project/privacy/main.html) [[Paper]](https://arxiv.org/abs/1803.11556) 
+# Activity Preserving Video Face Anonymization
+This repository contains the code for the paper "Learning to Anonymize Faces for Privacy Preserving Action Detection" presented and demonstrated at ECCV 2018: [[Paper]](https://arxiv.org/abs/1803.11556).
 
-For Video anonymization training code, please conatact Michael Ryoo ([mryoo@egovid.com](mryoo@egovid.com))
+    Zhongzheng Ren, Yong Jae Lee, Michael S. Ryoo
+    "Learning to Anonymize Faces for Privacy Preserving Action Detection"
+    in ECCV 2018
+
+Please check the following project page for more details: [[Project]](https://jason718.github.io/project/privacy/main.html)
+
+
+For the training code, please conatact Michael Ryoo ([mryoo@egovid.com](mryoo@egovid.com)).
 
 ## Results
 ![results](https://camo.githubusercontent.com/07b708ef957fc86b0ed2bf1b5e2fd667889c551e/68747470733a2f2f6a61736f6e3731382e6769746875622e696f2f70726f6a6563742f707269766163792f66696c65732f7175616c692e6a706567)
@@ -66,5 +72,5 @@ You can use a webcam in a real-time demo by running
  * [dechunwang/SSH-pytorch](https://github.com/dechunwang/SSH-pytorch)
 
 ## License
-facial-anonymizer complies with the following license:  
+The code is a non-commercial academic use and it complies with the following license:  
  * [egovid_license](https://github.com/blacknwhite5/facial-anonymizer/blob/master/egovid_license.txt)
