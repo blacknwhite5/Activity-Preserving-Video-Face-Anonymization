@@ -1,5 +1,5 @@
 # Activity Preserving Video Face Anonymization
-This repository contains the code for the paper "Learning to Anonymize Faces for Privacy Preserving Action Detection" presented and demonstrated at ECCV 2018: [[Paper]](https://arxiv.org/abs/1803.11556).
+This repository contains the code for the paper [Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/abs/1803.11556) presented and demonstrated at ECCV 2018.
 
     Zhongzheng Ren, Yong Jae Lee, Michael S. Ryoo
     "Learning to Anonymize Faces for Privacy Preserving Action Detection"
