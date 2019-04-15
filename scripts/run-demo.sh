@@ -1,2 +1,2 @@
-python ./demo/demo.py
+python ./demo/demo_cam.py
 

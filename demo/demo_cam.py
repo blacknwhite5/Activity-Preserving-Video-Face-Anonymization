@@ -121,7 +121,7 @@ if __name__ == '__main__':
     # Face detector F
     netF = SSH()
 
-    saved_model_path = '../data/pretrained_model/check_point.zip'
+    saved_model_path = 'pretrained/check_point.zip'
     check_point = load_check_point(saved_model_path)
     netF.load_state_dict(check_point['model_state_dict'])
     netF.eval().cuda()
@@ -130,7 +130,7 @@ if __name__ == '__main__':
     # Initialize modifier G
     G_name = 'resnet_9blocks'
     netG = networks.define_G(input_nc=3, output_nc=3, ngf=64, which_model_netG=G_name, norm='instance')
-    netG = networks.load_networks(netG, '../data/pretrained_model/model_1.pth')
+    netG = networks.load_networks(netG, 'pretrained/model_1.pth')
     netG.cuda()
     print('==> netG loaded')
 
