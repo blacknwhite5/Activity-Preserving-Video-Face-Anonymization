@@ -51,8 +51,8 @@ pyyaml
 ### 4. Download pretrained model
 Please download bellow models and place models in ```pretrained/``` folder
 
- * SSH-face detector: [Google Drive](https://drive.google.com/file/d/18AlQ4sqD5hdUOic-zkoC3ldhwCfweOX8/view?usp=sharing)
- * Privacy Preserving : [Google Drive](https://drive.google.com/file/d/1GMouJutcJwlEIxYF_xhG_6ZtDYCrKJwp/view?usp=sharing)
+ * SSH-face detector: [Google Drive](https://drive.google.com/open?id=18AlQ4sqD5hdUOic-zkoC3ldhwCfweOX8)
+ * Privacy Preserving : [Google Drive](https://drive.google.com/open?id=1GMouJutcJwlEIxYF_xhG_6ZtDYCrKJwp)
 
 ```
  pretrained
