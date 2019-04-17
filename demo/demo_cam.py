@@ -1,10 +1,7 @@
 import os
 import cv2
-import pdb
 import torch
 import numpy as np
-import argparse
-from datetime import datetime
 
 import _init_paths
 from model.module import networks
