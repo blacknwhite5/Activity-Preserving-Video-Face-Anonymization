@@ -5,7 +5,6 @@ import torch
 import numpy as np
 import argparse
 from datetime import datetime
-from imutils.video import FPS
 
 import _init_paths
 from model.module import networks
