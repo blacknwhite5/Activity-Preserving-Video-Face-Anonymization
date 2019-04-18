@@ -18,12 +18,12 @@ For the training code, please conatact Michael Ryoo ([mryoo@egovid.com](mryoo@eg
 ### 1. Preparation
 First of all, clone the code  
 ```
-git clone https://github.com/blacknwhite5/facial-anonymizer.git
+git clone https://github.com/blacknwhite5/Activity-Preserving-Video-Face-Anonymization.git
 ```
 
 Then, create a folder  
 ```
-cd facial-anonymizer && mkdir pretrained
+cd Activity-Preserving-Video-Face-Anonymization && mkdir pretrained
 ```
 
 ### 2. Prerequisites
@@ -37,7 +37,7 @@ Install all the python Dependencies using pip:
 pip install -r requirements.txt
 ```
 
-> torch    
+> torch (if you don't have CUDA 9, look for a version that fit you on [PyTorch](https://pytorch.org/get-started/locally/) and install it)    
 torchvision  
 cython  
 cffi  
